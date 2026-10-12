@@ -51,22 +51,6 @@ public class JourneyPlannerPage
         await FromInput.WaitForAsync(new LocatorWaitForOptions { State = WaitForSelectorState.Visible, Timeout = 15000 });
     }
 
-    // public async Task EnterFromLocation(string partialText, string fullStationName)
-    // {
-    //     await FromInput.FillAsync(partialText);
-    //     // Wait for auto-complete options to load and select the matching one
-    //     var option = _page.Locator($".ui-menu-item-wrapper:text('{fullStationName}')");
-    //     await option.WaitForAsync();
-    //     await option.ClickAsync();
-    // }
-
-    // public async Task EnterToLocation(string partialText, string fullStationName)
-    // {
-    //     await ToInput.FillAsync(partialText);
-    //     var option = _page.Locator($".ui-menu-item-wrapper:text('{fullStationName}')");
-    //     await option.WaitForAsync();
-    //     await option.ClickAsync();
-    // }
     public async Task EnterFromLocation(string partialText, string fullStationName)
     {
         await FromInput.ClickAsync();
