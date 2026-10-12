@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TflJourneyPlannerTest.Core/TflJourneyPlannerTest.Core.csproj" />
+  <Project Path="TflJourneyPlannerTest.Specs/TflJourneyPlannerTest.Specs.csproj" />
+</Solution>

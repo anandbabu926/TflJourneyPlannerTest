@@ -1,0 +1,11 @@
+C:\Users\setup\Documents\DotNET Projects\TflJourneyPlannerTest\TflJourneyPlannerTest.Core\bin\Debug\net10.0\TflJourneyPlannerTest.Core.deps.json
+C:\Users\setup\Documents\DotNET Projects\TflJourneyPlannerTest\TflJourneyPlannerTest.Core\bin\Debug\net10.0\TflJourneyPlannerTest.Core.dll
+C:\Users\setup\Documents\DotNET Projects\TflJourneyPlannerTest\TflJourneyPlannerTest.Core\bin\Debug\net10.0\TflJourneyPlannerTest.Core.pdb
+C:\Users\setup\Documents\DotNET Projects\TflJourneyPlannerTest\TflJourneyPlannerTest.Core\obj\Debug\net10.0\TflJourneyPlannerTest.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\setup\Documents\DotNET Projects\TflJourneyPlannerTest\TflJourneyPlannerTest.Core\obj\Debug\net10.0\TflJourneyPlannerTest.Core.AssemblyInfoInputs.cache
+C:\Users\setup\Documents\DotNET Projects\TflJourneyPlannerTest\TflJourneyPlannerTest.Core\obj\Debug\net10.0\TflJourneyPlannerTest.Core.AssemblyInfo.cs
+C:\Users\setup\Documents\DotNET Projects\TflJourneyPlannerTest\TflJourneyPlannerTest.Core\obj\Debug\net10.0\TflJourneyPlannerTest.Core.csproj.CoreCompileInputs.cache
+C:\Users\setup\Documents\DotNET Projects\TflJourneyPlannerTest\TflJourneyPlannerTest.Core\obj\Debug\net10.0\TflJourneyPlannerTest.Core.dll
+C:\Users\setup\Documents\DotNET Projects\TflJourneyPlannerTest\TflJourneyPlannerTest.Core\obj\Debug\net10.0\refint\TflJourneyPlannerTest.Core.dll
+C:\Users\setup\Documents\DotNET Projects\TflJourneyPlannerTest\TflJourneyPlannerTest.Core\obj\Debug\net10.0\TflJourneyPlannerTest.Core.pdb
+C:\Users\setup\Documents\DotNET Projects\TflJourneyPlannerTest\TflJourneyPlannerTest.Core\obj\Debug\net10.0\ref\TflJourneyPlannerTest.Core.dll
